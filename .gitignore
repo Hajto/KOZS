@@ -20,6 +20,9 @@ cordova/
 bin/
 gen/
 
+#idea
+.idea/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
